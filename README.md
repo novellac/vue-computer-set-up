@@ -1,8 +1,5 @@
 # Set Up Your Computer for VueJS
 
-- Set up Node, NPM (NVM? Or just mention it?), VSCode + Extensions, Vue, Vue CLI
-
-Tech to Set up
 
 - Node ([Node.JS](https://nodejs.org/en/download/))
     - What is Node? ([Wikipedia](https://en.wikipedia.org/wiki/Node.js))
