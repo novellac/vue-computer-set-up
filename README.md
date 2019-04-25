@@ -4,7 +4,7 @@
 - Node ([Node.JS](https://nodejs.org/en/download/))
     - What is Node? ([Wikipedia](https://en.wikipedia.org/wiki/Node.js))
     - Open terminal, check node -v
-    - NPM should be installed when you install node.
+    - NPM should be installed when you install node. Check with npm -v
 - NPM
     - What is NPM? ([Wikipedia](https://en.wikipedia.org/wiki/Npm_%28software%29))
     - [NVM](https://github.com/creationix/nvm) exists, and you might want to use it (but we won't do that now)
