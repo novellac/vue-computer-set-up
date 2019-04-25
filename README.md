@@ -8,7 +8,7 @@
 - NPM
     - What is NPM? ([Wikipedia](https://en.wikipedia.org/wiki/Npm_%28software%29))
     - [NVM](https://github.com/creationix/nvm) exists, and you might want to use it (but we won't do that now)
-- VSCode
+- VSCode ([Get VSCode](https://code.visualstudio.com/))
     - Extensions
         - [Sarah Drasner's Extension Pack](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack)
         - [Extras: Gift's Recommendations](https://dev.to/lauragift21/a-collection-of-essential-vscode--extensions-26al) (goes beyond Vue)
