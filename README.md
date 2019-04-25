@@ -33,6 +33,11 @@
 - Let's get hacking!
     - Add the project to VSCode. File > Add Folder (find the folder where your new project lives, click once on it, and click "Add Folder").
     - Have a look at the README file in the base of the project folder.
+    - Open a terminal (ctrl + `)
+    - Since this is the first time we've gotten into the project, we will use npm install
+    - npm run serve
+    - If asked whether node should be able to access networks (Windows) allow access.
+    - Ctrl + click the "local" web address. This will start the browser and show us the starter template.
     - [Hands-on Vue, part 1](https://dev.to/vuevixens/hands-on-vuejs-for-beginners-part-1-2j2g), by Marina Mosti
     - Git!
         - Sign into GitHub or GitLab
