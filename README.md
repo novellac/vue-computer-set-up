@@ -31,6 +31,8 @@
             - Where do you prefer storing config?
             - Save as preset for future projects?
 - Let's get hacking!
+    - Add the project to VSCode. File > Add Folder (find the folder where your new project lives, click once on it, and click "Add Folder").
+    - Have a look at the README file in the base of the project folder.
     - [Hands-on Vue, part 1](https://dev.to/vuevixens/hands-on-vuejs-for-beginners-part-1-2j2g), by Marina Mosti
     - Git!
         - Sign into GitHub or GitLab
