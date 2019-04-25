@@ -12,7 +12,8 @@
     - Extensions
         - [Sarah Drasner's Extension Pack](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack)
         - [Extras: Gift's Recommendations](https://dev.to/lauragift21/a-collection-of-essential-vscode--extensions-26al) (goes beyond Vue)
-- Vue
+- Vue ([See the Docs] (https://vuejs.org/v2/guide/installation.html))
+    - npm install -g vue will install Vue everywhere
     - Vue CLI
         - What do each of the options mean?
             - [Babel](https://babeljs.io/docs/en) - A JavaScript compiler that makes your newer JavaScript work with older versions of JavaScript.
