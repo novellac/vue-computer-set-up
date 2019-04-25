@@ -12,9 +12,10 @@
     - Extensions
         - [Sarah Drasner's Extension Pack](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack)
         - [Extras: Gift's Recommendations](https://dev.to/lauragift21/a-collection-of-essential-vscode--extensions-26al) (goes beyond Vue)
-- Vue ([See the Docs] (https://vuejs.org/v2/guide/installation.html))
+- Vue [See the Docs] (https://vuejs.org/v2/guide/installation.html)
     - npm install -g vue will install Vue everywhere
-    - Vue CLI
+    - [Vue CLI] (https://cli.vuejs.org/)
+        - A command line interface (CLI) which can help you start new projects quickly, with some common preset options to choose from.
         - What do each of the options mean?
             - [Babel](https://babeljs.io/docs/en) - A JavaScript compiler that makes your newer JavaScript work with older versions of JavaScript.
             - [TypeScript](https://www.typescriptlang.org/index.html) - A compiled programming that includes JavaScript, but has extra features (most importantly [strong typing](https://en.wikipedia.org/wiki/Strong_and_weak_typing)). It is a "superset of Javascript," and compiles down to plain JavaScript.
