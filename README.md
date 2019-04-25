@@ -26,6 +26,10 @@
             - [Linter](https://en.wikipedia.org/wiki/Lint_(software)) - Analyzes your code for errors, and alerts you to what and where, roughly, the errors are.
             - [Unit Testing](https://vuejs.org/v2/guide/unit-testing.html) - Lets you choose from [Jest](https://github.com/facebook/jest) or [Mocha](https://mochajs.org/) frameworks to test chunks of code in your app.
             - [E2E Testing](https://dev.to/lambdatesting/all-you-need-to-know-about-end-to-end-testing-4nbb) - Short for "[End to End Testing](https://vuejsdevelopers.com/2019/04/01/vue-testing-unit-vs-e2e/)," [Cypress](https://www.cypress.io/)/[Nightwatch](http://nightwatchjs.org/) are set up so you can test how your app works overall (e.g., What happens if you log in with an invalid email address?)
+            - Use History Mode for Router?
+            - Which CSS Preprocessor
+            - Where do you prefer storing config?
+            - Save as preset for future projects?
 - Let's get hacking!
     - [Hands-on Vue, part 1](https://dev.to/vuevixens/hands-on-vuejs-for-beginners-part-1-2j2g), by Marina Mosti
     - Git!
