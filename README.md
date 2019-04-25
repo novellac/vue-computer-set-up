@@ -4,7 +4,7 @@
 - Node ([Node.JS](https://nodejs.org/en/download/))
     - What is Node? ([Wikipedia](https://en.wikipedia.org/wiki/Node.js))
     - Open terminal, check node -v
-    - If you install node on Windows, then it will come with npm
+    - NPM should be installed when you install node.
 - NPM
     - What is NPM? ([Wikipedia](https://en.wikipedia.org/wiki/Npm_%28software%29))
     - [NVM](https://github.com/creationix/nvm) exists, and you might want to use it (but we won't do that now)
