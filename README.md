@@ -15,12 +15,12 @@
 - Vue
     - Vue CLI
         - What do each of the options mean?
-            - [Babel](https://babeljs.io/docs/en) - Makes your newer JavaScript work with older versions of JavaScript.
-            - [TypeScript](https://www.typescriptlang.org/index.html) - A programming that includes JavaScript, but has extra features (most importantly [strong typing](https://en.wikipedia.org/wiki/Strong_and_weak_typing)). They call it a "superset of JavaScript."
+            - [Babel](https://babeljs.io/docs/en) - A JavaScript compiler that makes your newer JavaScript work with older versions of JavaScript.
+            - [TypeScript](https://www.typescriptlang.org/index.html) - A compiled programming that includes JavaScript, but has extra features (most importantly [strong typing](https://en.wikipedia.org/wiki/Strong_and_weak_typing)). It is a "superset of Javascript," and compiles down to plain JavaScript.
             - [Progressive Web App support](https://en.wikipedia.org/wiki/Progressive_web_applications) - Helps your site act like a native app on the device, most notably it lets you use the app offline.
             - [Router](https://router.vuejs.org/) - Mostly we think of it as helping you to create multiple linked pages within your single page application ("routes"), but Vue Router does a bunch of other things too!
             - [Vuex](https://vuex.vuejs.org/) - Helps to manage "state" in your application. It stores some data that you may want to view and manipulate, and it makes sure you're manipulating that data in a safe way.
-            - [CSS Preprocessors](https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor) - Compiles CSS extension languages such as SASS (like CSS but with more features) down to CSS.
+            - [CSS Preprocessors](https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor) - These let you use CSS extension languages such as SASS, LESS, and Stylus (which are like CSS but with more features and different syntax).
             - [Linter](https://en.wikipedia.org/wiki/Lint_(software)) - Analyzes your code for errors, and alerts you to what and where, roughly, the errors are.
             - [Unit Testing](https://vuejs.org/v2/guide/unit-testing.html) - Lets you choose from [Jest](https://github.com/facebook/jest) or [Mocha](https://mochajs.org/) frameworks to test chunks of code in your app.
             - [E2E Testing](https://dev.to/lambdatesting/all-you-need-to-know-about-end-to-end-testing-4nbb) - Short for "[End to End Testing](https://vuejsdevelopers.com/2019/04/01/vue-testing-unit-vs-e2e/)," [Cypress](https://www.cypress.io/)/[Nightwatch](http://nightwatchjs.org/) are set up so you can test how your app works overall (e.g., What happens if you log in with an invalid email address?)
