@@ -2,7 +2,7 @@
 
 If you are new to VueJS, this is one place where you can start. Since I think that Windows can  be tricker to get started on, I've tried to pay special attention to Windows users throughout this guide.
 
-_If you have questions, or would like to have something explained in more detail, please create an issue. if you want to make contributions, please create a Pull Request with a very clear description of the change you propose and why. This project functions under the [Geek Feminism Code of Conduct].(https://geekfeminismdotorg.wordpress.com/about/code-of-conduct/)_
+_If you have questions, or would like to have something explained in more detail, please create an issue. if you want to make contributions, please create a Pull Request with a very clear description of the change you propose and why. This project functions under the [Geek Feminism Code of Conduct](https://geekfeminismdotorg.wordpress.com/about/code-of-conduct/)._
 
 ## Steps to Vue! (Follow them loosely, or in strict order, or not at all! :-))
 - Node ([Node.JS](https://nodejs.org/en/download/))
