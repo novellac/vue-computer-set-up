@@ -44,6 +44,6 @@
         - (on your computer) Create ssh keys
             - [Windows](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html)
             - @TODO Add the SSH keys to GitHub
-        - (on your computer)If it's not on there already, [install Git](https://www.atlassian.com/git/tutorials/install-git) on the computer
+        - (on your computer)If it's not on there already, [install Git](https://www.atlassian.com/git/tutorials/install-git) on the computer. If you are on Windows, [cmder](https://cmder.net/) is recommended.
         - In the root of your Vue project, [initialize a new project](https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line)
         - If you haven't set a git name and email before, you'll need to follow the command line prompts to do that now.
