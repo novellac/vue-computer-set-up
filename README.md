@@ -26,10 +26,10 @@
             - [Linter](https://en.wikipedia.org/wiki/Lint_(software)) - Analyzes your code for errors, and alerts you to what and where, roughly, the errors are.
             - [Unit Testing](https://vuejs.org/v2/guide/unit-testing.html) - Lets you choose from [Jest](https://github.com/facebook/jest) or [Mocha](https://mochajs.org/) frameworks to test chunks of code in your app.
             - [E2E Testing](https://dev.to/lambdatesting/all-you-need-to-know-about-end-to-end-testing-4nbb) - Short for "[End to End Testing](https://vuejsdevelopers.com/2019/04/01/vue-testing-unit-vs-e2e/)," [Cypress](https://www.cypress.io/)/[Nightwatch](http://nightwatchjs.org/) are set up so you can test how your app works overall (e.g., What happens if you log in with an invalid email address?)
-            - Use History Mode for Router?
-            - Which CSS Preprocessor
-            - Where do you prefer storing config?
-            - Save as preset for future projects?
+            - @TODO Use History Mode for Router?
+            - @TODO Which CSS Preprocessor
+            - @TODO Where do you prefer storing config?
+            - @TODO Save as preset for future projects?
 - Let's get hacking!
     - Add the project to VSCode. File > Add Folder (find the folder where your new project lives, click once on it, and click "Add Folder").
     - Have a look at the README file in the base of the project folder.
@@ -40,10 +40,10 @@
     - Ctrl + click the "local" web address. This will start the browser and show us the starter template.
     - [Hands-on Vue, part 1](https://dev.to/vuevixens/hands-on-vuejs-for-beginners-part-1-2j2g), by Marina Mosti
     - Git!
-        - Sign into GitHub or GitLab
-            - Make a new project
-        - Install Git on the computer
-        - Git init
-        - Paste GH commands
-        - Add name and email
-        - Create ssh keys
+        - Sign up/into [GitHub](https://github.com/) (we'll be using GitHub here, but GitLab and BitBucket are two other excellent choices)
+        - (on your computer) Create ssh keys
+            - [Windows](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html)
+            - @TODO Add the SSH keys to GitHub
+        - (on your computer)If it's not on there already, [install Git](https://www.atlassian.com/git/tutorials/install-git) on the computer
+        - In the root of your Vue project, [initialize a new project](https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line)
+        - If you haven't set a git name and email before, you'll need to follow the command line prompts to do that now.
