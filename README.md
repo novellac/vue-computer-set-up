@@ -18,7 +18,7 @@ _If you have questions, or would like to have something explained in more detail
         - [Extras: Gift's Recommendations](https://dev.to/lauragift21/a-collection-of-essential-vscode--extensions-26al) (goes beyond Vue)
 - Vue [See the Docs](https://vuejs.org/v2/guide/installation.html)
     - npm install -g vue will install Vue everywhere
-    - [Vue CLI](https://cli.vuejs.org/)
+    - npm install -g @vue/cli to install [Vue CLI](https://cli.vuejs.org/)
         - A command line interface (CLI) which can help you start new projects quickly, with some common preset options to choose from.
         - What do each of the options mean?
             - [Babel](https://babeljs.io/docs/en) - A JavaScript compiler that makes your newer JavaScript work with older versions of JavaScript.
